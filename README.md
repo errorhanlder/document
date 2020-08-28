@@ -7,3 +7,6 @@ https://www.fundebug.com/
 
 ## 思路
 https://juejin.im/post/6862559324632252430?utm_source=gold_browser_extension
+
+
+console > performance
